@@ -1,15 +1,11 @@
-Вот итоговый текст, оформленный с переходами по содержанию и включающимися изображениями:
-
----
-
 # s21_SimpleKat1ch
 
 ## Contents
 
-**[Preamble](#Preamble)**  
-**[Chapter I. Введение](#Chapter-I)**  
-**[Chapter II. Информация](#Chapter-II)**  
-**[Chapter III. Поздравления](#Chapter-III)**  
+0. **[Preamble](#Preamble)**  
+1. **[Chapter I. Введение](#Chapter-I)**  
+2. **[Chapter II. Информация](#Chapter-II)**  
+3. **[Chapter III. Поздравления](#Chapter-III)**  
 
 ---
 
